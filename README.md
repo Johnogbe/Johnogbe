@@ -2,7 +2,7 @@
 -  I am a FullStack developer.
 -  Worked Formerly in NIIT Warri,
 -  Ongoinging my bachelor degree in Computer science in the University of Benin.
--  I am an expert in HTML CSSS, JAVASCRIPT AND PHP
+-  I am an expert in HTML CSSS, JAVASCRIPT,PHP,React
 - 🌱 I’m currently learning python and React Js
 - 
 - 📫 How to reach me ... johnogbe220@gmail.com
