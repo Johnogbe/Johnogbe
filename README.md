@@ -5,7 +5,10 @@
 -  I am an expert in HTML CSSS, JAVASCRIPT,Django,PHP,React, 
 - 
 - 📫 How to reach me ... johnogbe220@gmail.com
--
+   **some of my projects** - [Visit Musk Capital](https://muskcapital-frontend.onrender.com/)
+
+    [Gain More Views](https://gainmoreviews.com/vcf_gain.php)
+
 - ⚡ Fun fact: ...
 - I started my career in tech since 2020 and dont look at my github streak. i code every day but for some reason dont push 😂
 
