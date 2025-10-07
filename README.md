@@ -7,7 +7,7 @@
 - 📫 How to reach me ... johnogbe220@gmail.com
 -
 - ⚡ Fun fact: ...
-- I started my career in tech since 2020
+- I started my career in tech since 2020 and dont look at my github streak. i code every day but for some reason dont push 😂
 
 <!---
 Johnogbe/Johnogbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
